@@ -1,5 +1,5 @@
 #PLEASE WRITE THE GITHUB URL BELOW!
-#https://github.com/cognitive88/oss_project/blob/main/template.py
+#https://github.com/cognitive88/oss_project
 
 import sys
 import pandas as pd
